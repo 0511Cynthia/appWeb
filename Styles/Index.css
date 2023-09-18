@@ -1,0 +1,52 @@
+body{
+    background: #fde8e8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #fde8e8, #ffffff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #fde8e8, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    align-items: center;
+    text-align: center;
+}
+/* .conteiner{
+    align-items: center;
+} */
+
+/* nav */
+.col-md-2{
+    margin-left: 25%;
+}
+
+.form{
+    display: none;
+    width: 200px;
+    position: absolute;
+    top: 25%;
+}
+
+.btn{
+    margin-right: 40.5%;
+    margin-top: 10px;
+    color: #e66bbd;
+    font-family: Georgia;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 8%; 
+    height: auto;
+}
+
+.img{
+    width: 30%;
+
+    height: auto;
+    border-radius: 20px;
+}
+
+p{
+    color: #e66bbd;
+    font-family: Georgia;
+}
+
+.card{
+    margin-top: 15px;
+    margin-left: 34%;
+}
