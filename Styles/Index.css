@@ -53,6 +53,11 @@ p{
     font-family: Georgia;
 }
 
+hr{
+    height: 10px;
+    background-color: #ff00c3;
+}
+
 .contCard{
     /* display: flex; */
     column-count: 2;
