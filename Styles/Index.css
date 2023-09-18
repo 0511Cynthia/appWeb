@@ -14,6 +14,13 @@ background: linear-gradient(to bottom, #fde8e8, #ffffff); /* W3C, IE 10+/ Edge, 
     margin-left: 25%;
 }
 
+.contBtn{
+    width: 450px;
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+}
+
 .form{
     display: none;
     width: 200px;
@@ -46,7 +53,18 @@ p{
     font-family: Georgia;
 }
 
+a{
+    
+}
+
+.contCard{
+    /* display: flex; */
+    column-count: 2;
+    /* column-gap: 5px; */
+
+}
 .card{
+    
     margin-top: 15px;
-    margin-left: 34%;
+    margin-left: 36.5%;
 }
