@@ -69,3 +69,8 @@ hr{
     margin-top: 15px;
     margin-left: 36.5%;
 }
+
+#imagenes{
+    position: absolute;
+    top: 10vh;
+}
